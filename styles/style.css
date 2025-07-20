@@ -911,7 +911,6 @@ body.menu-open .logo img {
   background: linear-gradient(to right, rgb(110, 175, 255), rgb(213, 89, 255));
   width: 80px;
   height: 80px;
-  margin: 0 auto 30px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1868,6 +1867,58 @@ section,
   margin-right: auto;
 }
 
+/* @media (max-width: 1200px) {
+  section,
+  .home-section,
+  .template-section,
+  .get-started-section,
+  .roadmap-section,
+  .how-it-works-section,
+  .features-container,
+  .teemplate-section,
+  .team,
+  .data-section,
+  .advisor-section,
+  .about-section,
+  .card-section,
+  .contact-section,
+  .faq-section {
+    padding: 60px 40px;
+    box-sizing: border-box;
+  }
+
+  .card-section {
+    max-width: 1000px;
+    gap: 16px;
+  }
+  .card {
+    max-width: 300px;
+  }
+
+  .about-card {
+    padding: 30px;
+    max-width: 700px;
+  }
+
+  .partners,
+  footer {
+    padding: 40px 40px;
+  }
+
+  .contact-section {
+    padding: 40px 40px;
+  }
+
+  .faq-con {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 16px;
+  }
+
+  .features-container {
+    padding: 40px 20px;
+  }
+}
+
 @media (max-width: 900px) {
 
   section,
@@ -1886,6 +1937,7 @@ section,
   .contact-section,
   .faq-section {
     padding: 40px 30px;
+    box-sizing: border-box;
   }
 }
 
@@ -1907,5 +1959,6 @@ section,
   .contact-section,
   .faq-section {
     padding: 25px 10px;
+    box-sizing: border-box;
   }
-}
+} */
